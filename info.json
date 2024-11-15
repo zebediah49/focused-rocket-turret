@@ -1,0 +1,13 @@
+{
+        "name": "focused-rocket-turret",
+        "version": "1.0.0",
+        "title": "Focused Rocket Turret",
+        "author": "zebediah49",
+        "dependencies": [
+                "base",
+		"space-age"
+        ],
+        "description": "A rocket turret variation with a limited firing cone.",
+        "factorio_version": "2.0"
+}
+
